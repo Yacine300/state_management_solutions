@@ -85,6 +85,16 @@ void dispose() {
 }
 ```
 
+# All State managment solutions ( we will consider GetX later ... )
+
+### provider vs Bloc&Cubit vs Riverpod vs inherritedWidget solution
+### prespective :
+- Immutability. 
+- Paradigm Used.
+- Use Cases. 
+- Complexity.
+- state coupled/not with widget tree.
+
 ## 1. Immutability
 
 | **Aspect**                   | **Provider**                                   | **Bloc & Cubit**                                 | **Riverpod**                                         | **InheritedWidget**                                 |
@@ -140,7 +150,7 @@ void dispose() {
 | **Examples**                      | Simple state propagation, theme or localization settings   | Complex apps, large-scale state management      | Modular apps, different state management needs            |
 
 
-## 6.More Solutions
+# More Solutions
 
 ### StatefulBuilder and ValueListenableBuilder
 #### StatefulBuilder
