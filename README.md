@@ -161,7 +161,6 @@ Usage: Typically used within dialogs or bottom sheets to manage local state .
 PLEASE NOTE HERE THAT WIDGET AS DIALOG AND BOTTOMSHEET ARE USALLY CALLED **TOMPORARY WIDGET** THEY NOT TRYLLY BELONG TO WIDGET TREE THAT WAY THEY ARE DESABLED TO BEEN REBUILD UNDER BUILD METHOD WHEN STATE CHANGES.
 
 ```dart
-Copier le code
 StatefulBuilder(
   builder: (BuildContext context, StateSetter setState) {
     return Column(
