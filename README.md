@@ -1,5 +1,7 @@
 # State Management Comparison V1.0.0
 
+![State Management Solutions](https://github.com/Yacine300/state_management_solutions/blob/main/cover-state-management.png)
+
 ## What is State Management?
 
 **State management** refers to the way an application handles and updates its state or data. In Flutter, state management is crucial because it determines how the application’s user interface (UI) reacts to changes in data. 
