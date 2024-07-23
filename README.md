@@ -1,4 +1,4 @@
-# State Management Comparison
+# State Management Comparison V1.0.0
 
 ## What is State Management?
 
